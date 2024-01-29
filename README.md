@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Enise</h2> 
 
-studying computer science in 3. Semester and tutoring/researching math and statistics in 🇩🇪
+studying computer science and tutoring/researching math and statistics in 🇩🇪
 
 💭 I’m interested in …
 - Generative AI 🤖
