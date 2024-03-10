@@ -10,7 +10,7 @@ studying computer science and tutoring/researching math and statistics in 🇩�
 👩🏽‍💻 I'm currently working on …
 An AI tool to make lawyers' and clients' life easier
 
-To learn more, collaborate, to provide, or contribute :
+To learn more, collaborate, provide, or contribute :
 
 <h5 align="center">Connect with me☺️</h5>
 
