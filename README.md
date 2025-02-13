@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Enise</h2> 
 
-studying computer science and tutoring/researching math and statistics in 🇩🇪
+studying computer science and tutoring math and statistics in 🇩🇪
 
 💭 I’m interested in …
 - Generative AI 🤖
@@ -8,7 +8,7 @@ studying computer science and tutoring/researching math and statistics in 🇩�
 - Machine Learning 🧠
 
 👩🏽‍💻 I'm currently working on …
-An AI tool to make lawyers' and clients' life easier
+Some small sized desktop apps and full stack web development
 
 To learn more, collaborate, provide, or contribute :
 
