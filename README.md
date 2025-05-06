@@ -8,7 +8,7 @@ studying computer science and tutoring math and statistics in 🇩🇪
 - Machine Learning 🧠
 
 👩🏽‍💻 I'm currently working on …
-Some small sized desktop apps and full stack web development
+Data pipeline project to monitor my monthly personal expenses
 
 To learn more, collaborate, provide, or contribute :
 
