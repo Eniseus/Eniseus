@@ -8,7 +8,7 @@ studying computer science and tutoring math and statistics in 🇩🇪
 - Machine Learning 🧠
 
 👩🏽‍💻 I'm currently working on …
-Data pipeline project to monitor my monthly personal expenses
+Data engineering project -- data engineering project for a mock insurance firm "pettify" 🐕
 
 To learn more, collaborate, provide, or contribute :
 
