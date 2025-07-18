@@ -10,7 +10,7 @@ studying computer science and tutoring math and statistics in 🇩🇪
 👩🏽‍💻 I'm currently working on …
 Data engineering project -- data engineering project for a mock insurance firm "pettify" 🐕
 
-To learn more, collaborate, provide, or contribute :
+‼️Attention‼️ I am looking for people to collaborate in a Data Science/Machine Learning/Data Engineering/Reinforcement Learning project. If interested, please contact me:
 
 <h5 align="center">Connect with me☺️</h5>
 
