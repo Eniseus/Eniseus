@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Enise</h2> 
 
-studying computer science and tutoring math and statistics in 🇩🇪
+computer science student and IT monkey 🐒
 
 💭 I’m interested in …
 - Generative AI 🤖
