@@ -4,11 +4,8 @@ computer science student and IT monkey 🐒
 
 💭 I’m interested in …
 - Generative AI 🤖
-- Data Modelling 📊
+- Data Modeling 📊
 - Machine Learning 🧠
-
-👩🏽‍💻 I'm currently working on …
-Data engineering project -- data engineering project for a mock insurance firm "pettify" 🐕
 
 ‼️Attention‼️ I am looking for people to collaborate in a Data Science/Machine Learning/Data Engineering/Reinforcement Learning project. If interested, please contact me:
 
