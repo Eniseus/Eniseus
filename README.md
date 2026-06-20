@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Enise</h2> 
 
-computer science student and IT monkey 🐒
+computer scientist and IT monkey working in germany's most renowned bank🐒
 
 💭 I’m interested in …
 - Generative AI 🤖
